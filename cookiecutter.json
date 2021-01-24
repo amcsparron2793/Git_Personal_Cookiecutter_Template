@@ -1,0 +1,14 @@
+{
+    "directory_name": "New_Project",
+    "logs": "Logs",
+    "err_logs": "Error_Logs",
+    "gen_logs": "General_Logs",
+    "Modules": "Modules",
+    "file_name": "Main",
+    "init_file": "__init__",
+    "git": ".gitignore",
+    "json_in": "json_input",
+    "json_out": "json_output",
+
+    "greeting_recipient": "Andrew"
+}
